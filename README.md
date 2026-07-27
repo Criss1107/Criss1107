@@ -23,6 +23,7 @@ Actualmente me encuentro buscando una oportunidad para realizar mis prácticas p
 - ☕ Java
 - 🐘 PHP
 - 🗄 SQL
+- C++
 
 ### Desarrollo Web
 
