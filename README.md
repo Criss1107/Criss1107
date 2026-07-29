@@ -1,12 +1,12 @@
-# 👋 Hola, soy Cristian Felipe Urrego Vargas
+# Hola, soy Cristian Felipe Urrego Vargas
 
-🎓 **Estudiante de Tecnología en Sistematización de Datos**  
-💻 **Practicante de Desarrollo Backend**  
-📍 Bogotá D.C., Colombia
+**Estudiante de Tecnología en Sistematización de Datos**  
+**Practicante de Desarrollo Backend**  
+Bogotá D.C., Colombia
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 Soy estudiante de sexto semestre de Tecnología en Sistematización de Datos en la Universidad Distrital Francisco José de Caldas.
 
@@ -16,23 +16,23 @@ Actualmente me encuentro buscando una oportunidad para realizar mis prácticas p
 
 ---
 
-## 🛠 Tecnologías
+## Tecnologías
 
 ### Lenguajes
 
-- ☕ Java
-- 🐘 PHP
-- 🗄 SQL
+- Java
+- PHP
+- SQL
 - C++
 
 ### Desarrollo Web
 
-- 🌐 HTML5
-- 🎨 CSS3
+- HTML5
+- CSS3
 
 ### Bases de Datos
 
-- 🐬 MySQL
+- MySQL
 
 ### Frameworks
 
@@ -50,37 +50,37 @@ Actualmente me encuentro buscando una oportunidad para realizar mis prácticas p
 
 ---
 
-## 📂 Proyectos Destacados
+## Proyectos Destacados
 
-### 📦 Sistema Web MoreNat Aves & Café
+### Sistema Web MoreNat Aves & Café
 
 Aplicación web desarrollada con PHP y MySQL para la administración de inventario, ventas y usuarios.
 
 ---
 
-### 🏨 Sistema de Gestión Hotelera
+### Sistema de Gestión Hotelera
 
 Aplicación desarrollada en Java para la administración de un hotel.
 
 ---
 
-### 🚗 Sistema de Gestión Vehicular
+### Sistema de Gestión Vehicular
 
 Proyecto académico desarrollado en Java para administrar propietarios, vehículos, impuestos y comparendos.
 
 ---
 
-### 🌐 Portafolio Personal
+### Portafolio Personal
 
 Página web desarrollada con HTML y CSS publicada mediante GitHub Pages.
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-📧 urregocristian1107@gmail.com
+urregocristian1107@gmail.com
 
-💼 LinkedIn
+LinkedIn
 
 https://www.linkedin.com/in/cristian-felipe-urrego-vargas-89a786418/
 
