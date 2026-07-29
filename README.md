@@ -84,6 +84,6 @@ LinkedIn
 
 https://www.linkedin.com/in/cristian-felipe-urrego-vargas-89a786418/
 
-🌐 Portafolio
+Portafolio
 
 https://criss1107.github.io/My-Personal-Web/
